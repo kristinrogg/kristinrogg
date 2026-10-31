@@ -1,3 +1,3 @@
 # krogg
 
-hello! This is a test
+hello, this is a test!
